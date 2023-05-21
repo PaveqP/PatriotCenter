@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PatriotCenter/static/css/main.cd79efbe.css",
-    "main.js": "/PatriotCenter/static/js/main.ca425776.js",
+    "main.css": "/PatriotCenter/static/css/main.4bbf5bb9.css",
+    "main.js": "/PatriotCenter/static/js/main.e47b9138.js",
     "static/media/2about.png": "/PatriotCenter/static/media/2about.f590c1b367938fcd5de1.png",
     "static/media/star.png": "/PatriotCenter/static/media/star.3eda0b17cbb8c8c4a446.png",
     "static/media/about.png": "/PatriotCenter/static/media/about.8a78c722cad60c55cbfd.png",
@@ -31,15 +31,16 @@
     "static/media/war.png": "/PatriotCenter/static/media/war.be78d9495be79d299e33.png",
     "static/media/Sevastopol.png": "/PatriotCenter/static/media/Sevastopol.97a076760df877beead5.png",
     "static/media/operation.png": "/PatriotCenter/static/media/operation.97a076760df877beead5.png",
+    "static/media/adaptiveData.png": "/PatriotCenter/static/media/adaptiveData.c077606ced8c2a24bb10.png",
     "static/media/praga.png": "/PatriotCenter/static/media/praga.7a47a3742d2dfe6d2c45.png",
     "static/media/biglogo.png": "/PatriotCenter/static/media/biglogo.20cf71bf935c8bf41ebe.png",
     "static/media/logo.png": "/PatriotCenter/static/media/logo.40af2f4ccff4c1820754.png",
     "index.html": "/PatriotCenter/index.html",
-    "main.cd79efbe.css.map": "/PatriotCenter/static/css/main.cd79efbe.css.map",
-    "main.ca425776.js.map": "/PatriotCenter/static/js/main.ca425776.js.map"
+    "main.4bbf5bb9.css.map": "/PatriotCenter/static/css/main.4bbf5bb9.css.map",
+    "main.e47b9138.js.map": "/PatriotCenter/static/js/main.e47b9138.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd79efbe.css",
-    "static/js/main.ca425776.js"
+    "static/css/main.4bbf5bb9.css",
+    "static/js/main.e47b9138.js"
   ]
 }
