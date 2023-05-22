@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PatriotCenter/static/css/main.c66c2d8c.css",
-    "main.js": "/PatriotCenter/static/js/main.3df2fa2b.js",
+    "main.css": "/PatriotCenter/static/css/main.c4a3b81c.css",
+    "main.js": "/PatriotCenter/static/js/main.005bfc71.js",
     "static/media/2about.png": "/PatriotCenter/static/media/2about.f590c1b367938fcd5de1.png",
     "static/media/star.png": "/PatriotCenter/static/media/star.3eda0b17cbb8c8c4a446.png",
     "static/media/about.png": "/PatriotCenter/static/media/about.8a78c722cad60c55cbfd.png",
@@ -36,11 +36,11 @@
     "static/media/biglogo.png": "/PatriotCenter/static/media/biglogo.20cf71bf935c8bf41ebe.png",
     "static/media/logo.png": "/PatriotCenter/static/media/logo.40af2f4ccff4c1820754.png",
     "index.html": "/PatriotCenter/index.html",
-    "main.c66c2d8c.css.map": "/PatriotCenter/static/css/main.c66c2d8c.css.map",
-    "main.3df2fa2b.js.map": "/PatriotCenter/static/js/main.3df2fa2b.js.map"
+    "main.c4a3b81c.css.map": "/PatriotCenter/static/css/main.c4a3b81c.css.map",
+    "main.005bfc71.js.map": "/PatriotCenter/static/js/main.005bfc71.js.map"
   },
   "entrypoints": [
-    "static/css/main.c66c2d8c.css",
-    "static/js/main.3df2fa2b.js"
+    "static/css/main.c4a3b81c.css",
+    "static/js/main.005bfc71.js"
   ]
 }
