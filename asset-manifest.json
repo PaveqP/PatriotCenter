@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PatriotCenter/static/css/main.6e62203c.css",
-    "main.js": "/PatriotCenter/static/js/main.da15b4e7.js",
+    "main.css": "/PatriotCenter/static/css/main.2bd234f4.css",
+    "main.js": "/PatriotCenter/static/js/main.d7cf3f37.js",
     "static/media/2about.png": "/PatriotCenter/static/media/2about.f590c1b367938fcd5de1.png",
     "static/media/star.png": "/PatriotCenter/static/media/star.3eda0b17cbb8c8c4a446.png",
     "static/media/about.png": "/PatriotCenter/static/media/about.8a78c722cad60c55cbfd.png",
@@ -10,7 +10,6 @@
     "static/media/new.png": "/PatriotCenter/static/media/new.7200bdc6bb8cd7e8782a.png",
     "static/media/prepare.png": "/PatriotCenter/static/media/prepare.05004ee5cfcf5a90adb1.png",
     "static/media/partizane.png": "/PatriotCenter/static/media/partizane.060b01b8d5cbd8d564ef.png",
-    "static/media/cart.png": "/PatriotCenter/static/media/cart.c032ca25881e953dfcba.png",
     "static/media/meet.png": "/PatriotCenter/static/media/meet.bbf710728d3ab4a29d9d.png",
     "static/media/aliens.png": "/PatriotCenter/static/media/aliens.f3785c9a559477b7f00f.png",
     "static/media/history.png": "/PatriotCenter/static/media/history.543a19827f35b9900fdd.png",
@@ -37,11 +36,11 @@
     "static/media/biglogo.png": "/PatriotCenter/static/media/biglogo.20cf71bf935c8bf41ebe.png",
     "static/media/logo.png": "/PatriotCenter/static/media/logo.40af2f4ccff4c1820754.png",
     "index.html": "/PatriotCenter/index.html",
-    "main.6e62203c.css.map": "/PatriotCenter/static/css/main.6e62203c.css.map",
-    "main.da15b4e7.js.map": "/PatriotCenter/static/js/main.da15b4e7.js.map"
+    "main.2bd234f4.css.map": "/PatriotCenter/static/css/main.2bd234f4.css.map",
+    "main.d7cf3f37.js.map": "/PatriotCenter/static/js/main.d7cf3f37.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e62203c.css",
-    "static/js/main.da15b4e7.js"
+    "static/css/main.2bd234f4.css",
+    "static/js/main.d7cf3f37.js"
   ]
 }
